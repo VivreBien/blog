@@ -33,6 +33,7 @@ S'il n'y avait que le point 1 il suffirait de s'alcooliser ou de prendre des dro
 Le point 2 est important pour donner du sens à sa vie, une signification, une importance.
 
 Il reste néanmoins deux choses à définir:
+
 1. **Qu'est-ce qu'être heureux pour moi ?**
 2. **Qu'est-ce qu'être utile ?**
 
