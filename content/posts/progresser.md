@@ -9,7 +9,7 @@ images:
 - /images/jungwoo-hong-100345-unsplash.jpg
 ---
 
-L'un des buts de ma vie est de progresser. Chaque jours tous les jours.
+L'un des buts de ma vie est de progresser. Chaque jour tous les jours.
 
 Mais pour cela il y a plusieurs choses importantes à connaitre:
 
@@ -21,7 +21,7 @@ Mais pour cela il y a plusieurs choses importantes à connaitre:
 
 Pour progresser il faut apprendre mais il y a des obstacles à cela. Le premier d'entre eux et probablement le plus important est que l'on ne peut pas apprendre si l'on croit déjà savoir.
 
-Et tout comme le monde évolue vite ainsi vont les connaissances. Ce que l'on sait un jour peut très bien être complètement faux un autre jour. A une époque tous les scientifiques (qui pourtant n'étaient pas bêtes) pensaient que la Terre était plate.
+Et tout comme le monde évolue vite ainsi vont les connaissances. Ce que l'on sait un jour peut très bien être complètement faux un autre jour. À une époque tous les scientifiques (qui pourtant n'étaient pas bêtes) pensaient que la Terre était plate.
 
 **Il faut donc être humble et reconnaitre que l'on ne sait rien.**
 
@@ -33,9 +33,13 @@ Alvin Toffler
 
 > The illiterates of the 21st century will not be those who cannot read and write but those who cannot learn, unlearn, and relearn.
 
+(Les illétrés du 21ème siècle ne seront pas ceux qui ne savent ni lire ni écrire mais ceux qui ne savent pas apprendre, désapprendre et réapprendre)
+
 John Cage
 
 > I can’t understand why people are frightened of new ideas. I’m frightened of the old ones.
+
+(Je ne peux pas comprendre pourquoi les gens sont effrayés par les nouvelles idées. Je suis effrayé par les anciennes.)
 
 ## <a name="personne-ne-sait-ce-quil-fait"></a>Personne ne sait ce qu'il fait
 
@@ -53,6 +57,8 @@ John Cage
 
 > In questions of science, the authority of a thousand is not worth the humble reasoning of a single individual.
 
+(Dans les questions de science, l'autorité d'un millier ne vaut pas le raisonnement humble d'un seul individu)
+
  Mark Twain:
 
 > A chaque fois que vous vous trouvez du côté de la majorité il est temps de s'arrêter et réfléchir
@@ -65,26 +71,31 @@ Si l'on a appliqué les deux premiers principes alors nos idées sont basées su
 
 Mais bien souvent quelque chose nous en empêche, la peur de l'échec.
 
-Or cette peur est totalement irrationnelle de nos jours. Quel risque prenons-nous ? Nous n'allons pas mourrir de faim si ce que l'on a fait s'effondre.
+Or cette peur est totalement irrationnelle de nos jours. Quel risque prenons-nous ? Il y a très peu de chance de mourrir de faim si ce que l'on a fait s'effondre.
 
 Henry Ford
 
 > Failure is simply the opportunity to begin again, this time more intelligently.
 
+(L'échec est simplement l'opportunité de recommancer encore, cette fois plus intelligemment)
+
 Winston Churchill
 
 > Success is going from failure to failure without losing your enthusiasm.
+
+(Le succès est d'aller d'échec en échec sans perdre son enthousiasme)
 
 Thomas Edison
 
 > I have not failed 700 times. I’ve succeeded in proving 700 ways how not to build a lightbulb.
 
-Ce qui est considéré comme sûr actuellement par la société est très différent de ce qui est réellement sûr ! Pour ma mère un CDI est l'aboutissement d'une carrière professionnelle et une fois celui-ci obtenu alors il ne faut plus bouger.
+(Je n'ai pas échoué 700 fois. J'ai prouvé avec succès 700 daçon de ne pas construire une ampoule)
 
+Ce qui est considéré comme sûr actuellement par la société est très différent de ce qui est réellement sûr !
 
 **N'ayons pas peur, l'échec est un bond en avant.**
 
-Il permet d'avoir des informations sur ce que l'on est en train de tenter dans notre propre jeu vidéo. Et si ça ne marche et bien ce n'est pas grave, il suffit de recommencer.
+Il permet d'avoir des informations sur ce que l'on est en train de tenter dans notre propre jeu vidéo. Et si ça ne marche pas et bien ce n'est pas grave, il suffit de recommencer.
 
 Sénèque:
 
