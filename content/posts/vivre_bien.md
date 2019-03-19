@@ -5,6 +5,8 @@ date: 2019-02-03
 description: "Que veux-tu faire de TA vie ?"
 featured_image: "/images/mi-pham-223464-unsplash.jpg"
 tags: []
+aliases:
+  - /posts/vivre-bien
 images:
 - /images/mi-pham-223464-unsplash.jpg
 ---
@@ -12,7 +14,7 @@ images:
 Comme je l'ai dis dans le premier article, il faut se poser la bonne question: [Pourquoi ?](https://vivrebien.fr/pourquoi/) Et cela dans tous les domaines: pourquoi je mange un gros burger ? Pourquoi j'achète tel objet ? Pourquoi je passe mes soirées à regarder la télé ?
 
 Mais il y a une question qu'il est important de se poser le plus tôt possible: **Pourquoi j'existe ?**
-
+<!--more-->
 Qu'est-ce que je veux apporter pendant mon temps sur Terre ? Comment vivre bien le temps qui m'est alloué ?
 
 Chacun aura ses propres réponses mais il faut au moins se poser ces questions. Et obtenir une réponse est quelque chose de compliqué, cela ne se fera pas en une journée.

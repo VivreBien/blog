@@ -9,8 +9,12 @@ enableRobotsTXT = true
 googleAnalytics = "UA-131943733-1"
 rssLimit = 20
 
+[permalinks]
+  posts = "/"
+
 [params]
   featured_image = "images/ronit-valfer-524663-unsplash.jpg"
   twitter = "https://twitter.com/vivrebien1"
   recent_posts_number = 5
   cover_dimming_class = "bg-black-10"
+  read_more_copy = "En lire plus"

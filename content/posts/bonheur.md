@@ -5,6 +5,8 @@ url: "bonheur"
 description: "Demande le meilleur pour toi."
 featured_image: "/images/annie-spratt-253799-unsplash.jpg"
 tags: []
+aliases:
+  - /posts/bonheur
 images:
 - /images/annie-spratt-253799-unsplash.jpg
 ---
@@ -12,6 +14,8 @@ images:
 J'ai écrit dans [un article précédant](https://vivrebien.fr/vivre-bien/) qu'un des buts de ma vie était d'être heureux.
 
 C'est super mais pourquoi être heureux ? Et comment améliorer son bonheur ?
+
+<!--more-->
 
 ## Pourquoi être heureux
 

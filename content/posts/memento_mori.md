@@ -5,6 +5,8 @@ url: "memento-mori"
 description: "C'est ta vie et elle s'achève minute après minute."
 featured_image: "/images/aron-visuals-322314-unsplash.jpg"
 tags: []
+aliases:
+  - /posts/memento-mori
 images:
 - /images/aron-visuals-322314-unsplash.jpg
 ---
@@ -13,7 +15,9 @@ De nombreuses personnes se plaignent qu'elles n'ont pas le temps mais c'est uniq
 
 La vie est bien assez longue pour qui sait à quoi l'occuper de manière intelligente. [Trouvez votre but](https://vivrebien.fr/vivre-bien/).
 
-Et ne gâchons rien, ne remettons rien à demain car tout peut s'arrêter aujourd'hui : **[Memento Mori](https://fr.wikipedia.org/wiki/Memento_mori)**. Souviens-toi que tu vas mourir.
+Et ne gâchons rien, ne remettons rien à demain car tout peut s'arrêter aujourd'hui : **[Memento Mori](https://fr.wikipedia.org/wiki/Memento_mori)**. **Souviens-toi que tu vas mourir**.
+
+<!--more-->
 
 ## Sois humble
 

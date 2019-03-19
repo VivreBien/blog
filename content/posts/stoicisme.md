@@ -5,12 +5,14 @@ url: "stoicisme"
 description: "Car on a tous besoin d'une philosophie de vie."
 featured_image: "/images/cristina-gottardi-661852-unsplash.jpg"
 tags: []
+aliases:
+  - /posts/stoicisme
 images:
 - /images/cristina-gottardi-661852-unsplash.jpg
 ---
 
 J'ai toujours cherché des écrits, des réflexions sur comment vivre bien.
-
+<!--more-->
 Les religions ne m'ont jamais attiré, j'avais bien trop de mal à y croire.
 
 La philosophie étudiée à l'école me semblait aride et tout sauf applicable à la vie quotidienne.

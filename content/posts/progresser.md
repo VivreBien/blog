@@ -5,6 +5,8 @@ date: 2019-02-07
 description: "S'améliorer n'est pas simple. Quelques conseils."
 featured_image: "/images/jungwoo-hong-100345-unsplash.jpg"
 tags: []
+aliases:
+  - /posts/progresser
 images:
 - /images/jungwoo-hong-100345-unsplash.jpg
 ---
@@ -12,7 +14,7 @@ images:
 L'un des buts de ma vie est de progresser. Chaque jour tous les jours.
 
 Mais pour cela il y a plusieurs choses importantes à connaitre:
-
+<!--more-->
 1. [On ne peut pas apprendre ce que l'on croit déjà savoir](#on-ne-peut-pas-apprendre-ce-que-lon-croit-deja-savoir)
 2. [Personne ne sait ce qu'il fait](#personne-ne-sait-ce-quil-fait)
 3. [Il ne faut pas avoir peur](#il-ne-faut-pas-avoir-peur)

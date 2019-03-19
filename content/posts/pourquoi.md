@@ -4,13 +4,15 @@ url: "pourquoi"
 description: "C'est ta vie et elle n'appartient qu'à toi. Alors pose toi la bonne question."
 featured_image: "/images/emily-morter-188019-unsplash.jpg"
 tags: []
+aliases:
+  - /posts/pourquoi
 date: "2019-01-25"
 images:
 - /images/emily-morter-188019-unsplash.jpg 
 ---
 
 C'est ta vie et elle n'appartient qu'à toi. Tu en es responsable. C'est à toi de choisir ce que tu veux faire et comment tu veux le faire.
-
+<!--more-->
 Si tu ne le fais pas, quelqu'un d'autre le fera pour toi et alors tu finiras sur un canapé en train de regarder des pubs, d'acheter des merdes sur internet et de grossir.
 
 Mais alors comment choisir ce à quoi l'on va passer notre temps ? Comment trouver du sens ?
