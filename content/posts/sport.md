@@ -20,6 +20,7 @@ L’entraînement aura une **durée totale de 10 minutes** ce qui est largement 
 Il y a deux catégories d’exercices, les exercices sollicitant votre cœur (le “cardio“) et les exercices de résistance (traditionnellement soulever des poids divers). Il faudra faire les deux mais rassurez-vous cela ne sera pas plus long !
 
 Pour les exercices de resistance je vous propose le trio magique:
+
 1. [Pompes / Push-up](https://www.youtube.com/watch?v=IODxDxX7oi4) (c’est la même chose, on ne panique pas 😁)
 2. [Tractions / Pull-up](https://www.youtube.com/watch?v=eGo4IYlbE5g) (pareil, pas de panique)
 3. [Squats](https://www.youtube.com/watch?v=X0qC1k0Zi6k)
