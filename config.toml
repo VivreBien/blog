@@ -13,7 +13,7 @@ rssLimit = 20
   posts = "/"
 
 [params]
-  featured_image = "images/ronit-valfer-524663-unsplash.jpg"
+  featured_image = "images/hello-i-m-nik-z1d-LP8sjuI-unsplash.jpg"
   twitter = "https://twitter.com/vivrebien1"
   recent_posts_number = 5
   cover_dimming_class = "bg-black-10"
