@@ -16,6 +16,8 @@ C'est la question à laquelle on va tenter de répondre ensemble sur ce blog. J'
 
 Comme vous le voyez les sujets sont variés et si certains sujets vous semblent importants n'hésitez pas à m'en parler que cela soit via [Twitter](https://twitter.com/vivrebien1) ou un [email](mailto:m@vivrebien.fr) et on verra ce que l'on peut en faire.
 
+Et comme le temps est notre ressource la plus précieuse les articles seront courts et droit au but !
+
 En attendant si vous voulez être sûrs de ne pas louper un nouvel article n'hésitez à me suivre sur [Twitter](https://twitter.com/vivrebien1), à vous abonner au [flux RSS](/index.xml) de la page ou à vous inscrire à la newsletter (*bientôt!*).
 
 M.
