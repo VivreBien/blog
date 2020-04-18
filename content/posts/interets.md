@@ -27,7 +27,7 @@ En illustration voici la différence de gains en fonction du rendement pour 10 0
 
 Plutôt impressionnant 💹
 
-Et cela est vrai dans tous les domaines qui comptent vraiment en particulier les relations humaines. Que pensez-vous de l’”ami” qui ne vous parle que tous les 3 ans quand il a besoin d’un service ? Alors que celui qui se préoccupe régulièrement de vous et de vos proches, que vous voyez souvent et avec lequel vous faites des choses lui tient une place bien à part ?
+Et cela est vrai dans tous les domaines qui comptent vraiment en particulier les relations humaines. Que pensez-vous de l’”ami” qui ne vous parle que tous les 3 ans quand il a besoin d’un service ? Alors que celui qui se préoccupe régulièrement de vous et de vos proches, que vous voyez souvent et avec lequel vous faites des choses, lui tient une place bien à part.
 
 Le sport ? Même chose, un entraînement régulier et constant est bien meilleur pour vous que de tenter de faire un marathon une fois par an sans échauffement.
 
